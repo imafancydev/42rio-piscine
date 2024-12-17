@@ -1,4 +1,4 @@
-# C Piscine @ 42rio
+ccccccccccccccccccccccccccccccccc# C Piscine @ 42rio
 
 This repository contains coding developed at [42rio's](https://42.rio/) (also known as `Piscine`), from 10/jun/2024 to 05/jul/2024.
 
@@ -19,15 +19,12 @@ This repository contains coding developed at [42rio's](https://42.rio/) (also kn
 		The primary language learned at the 42's Piscine is C: dealing with variables,
 		pointers, memory allocation, macros, as well as creating functions and programs,
 		including the use and creation of libraries and Makefiles.
-
 	# Shell
 		The first two days of the bootcamp are dedicated to learning basic to intermediate
 		shell commands to seamlessly navigate through the terminal.
-
 	# Git
 		All projects are submitted via a remote git repository, which demands students to
 		be at ease with such a system.
-
 ### Soft-skills
 	# Self-learning and proactiveness
 		At 42, self-learning is at the core of its peer to peer learning methodology. There
