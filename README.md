@@ -1,4 +1,4 @@
-ccccccccccccccccccccccccccccccccc# C Piscine @ 42rio
+# C Piscine @ 42rio
 
 This repository contains coding developed at [42rio's](https://42.rio/) (also known as `Piscine`), from 10/jun/2024 to 05/jul/2024.
 
