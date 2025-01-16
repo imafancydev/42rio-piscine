@@ -10,7 +10,7 @@ This repository contains coding developed at [42rio's](https://42.rio/) (also kn
 	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 	is the last stage in the selection process for becoming a "cadet" (42's student).
 
-[![Photo of a 42rio's lab](42rio.jpeg)](https:/42.rio/)
+[![Photo of a 42rio's lab](42rio.jpeg)](https:/42.rio/) 
 
 ## Skills developed at C Piscine
 
