@@ -13,7 +13,7 @@ This repository contains coding developed at [42rio's](https://42.rio/) (also kn
 [![Photo of a 42rio's lab](42rio.jpeg)](https:/42.rio/) 
 
 ## Skills developed at C Piscine
-
+ 
 ### Hard-skills
 	# C Language
 		The primary language learned at the 42's Piscine is C: dealing with variables,
